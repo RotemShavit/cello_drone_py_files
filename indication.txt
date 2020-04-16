@@ -1,0 +1,3 @@
+Internet: True
+Cam: True
+Mavlink: False
